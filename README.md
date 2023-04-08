@@ -1,9 +1,9 @@
 # nFactorial-AI-Cup-AppTrack
 
-## < Your Name >
+## Nurdaulet Zhilkamanov
 
 
-## < Your App's Name >
+## Aurora
 
 
 ## Typeform to submit:
